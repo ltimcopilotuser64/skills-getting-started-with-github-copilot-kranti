@@ -8,6 +8,23 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
+## 🚀 Quick Start
+
+**To complete Step 1**, you need to create a branch named `accelerate-with-copilot`:
+
+### Option 1: Use the Helper Script
+```bash
+./create-branch.sh
+```
+
+### Option 2: Manual Command  
+```bash
+git checkout -b accelerate-with-copilot
+git push -u origin accelerate-with-copilot
+```
+
+📖 **Need help?** See [EXERCISE_GUIDE.md](./EXERCISE_GUIDE.md) for detailed instructions.
+
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ltimcopilotuser64/skills-getting-started-with-github-copilot-kranti/issues/1)
 
 ---
