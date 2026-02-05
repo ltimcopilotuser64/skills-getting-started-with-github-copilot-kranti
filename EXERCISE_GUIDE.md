@@ -10,7 +10,7 @@ The automated workflow is waiting for you to create a branch named `accelerate-w
 
 ### Option 1: Using GitHub Codespace (Recommended)
 
-1. Open your Codespace at: https://scaling-space-broccoli-r4vrvgrr449xhx6xp.github.dev/
+1. Open your Codespace from the GitHub repository page (click the green "Code" button → "Codespaces" tab)
 2. Open the terminal in VS Code
 3. Run these commands:
    ```bash
